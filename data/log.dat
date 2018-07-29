@@ -1,0 +1,1878 @@
+Application path: /livechat/php/app.php?install-wizard-2
+2018-07-25 20:35:43 Undefined index: smtp on line 78 in C:\xampp\htdocs\livechat\views\admin\install-wizard-2.html
+2018-07-25 20:35:43 Undefined index: smtp on line 151 in C:\xampp\htdocs\livechat\views\admin\install-wizard-2.html
+Application path: /livechat/php/app.php?contact
+2018-07-25 20:36:37 mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() on line 698 in C:\xampp\htdocs\livechat\php\lib\PHPMailer\class.phpmailer.php
+Application path: /livechat/php/app.php?contact
+2018-07-25 20:36:37 [error] Could not instantiate mail function.
+Debug information:
+
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Mailer.php:51 (Logger:error())
+C:\xampp\htdocs\livechat\php\controller\ContactController.php:36 (Mailer:sendMessage())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (ContactController:contactAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?contact
+2018-07-25 20:37:54 mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() on line 698 in C:\xampp\htdocs\livechat\php\lib\PHPMailer\class.phpmailer.php
+Application path: /livechat/php/app.php?contact
+2018-07-25 20:37:55 [error] Could not instantiate mail function.
+Debug information:
+
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Mailer.php:51 (Logger:error())
+C:\xampp\htdocs\livechat\php\controller\ContactController.php:36 (Mailer:sendMessage())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (ContactController:contactAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:41:18 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:41:23 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:41:28 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:41:33 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:41:38 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:41:43 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:41:48 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:41:53 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:41:58 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:42:03 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:42:08 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:42:13 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:42:18 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:42:23 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:42:28 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:42:33 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:42:38 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2018-07-25 20:42:43 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?operator-update-typing-status
+2018-07-25 20:42:46 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+2018-07-25 20:42:46 parse_ini_file(C:\xampp\htdocs\livechat\php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in C:\xampp\htdocs\livechat\php\service\Memory.php
+2018-07-25 20:42:46 array_merge(): Argument #1 is not an array on line 102 in C:\xampp\htdocs\livechat\php\service\Memory.php
+2018-07-25 20:42:46 array_keys() expects parameter 1 to be array, boolean given on line 104 in C:\xampp\htdocs\livechat\php\service\Memory.php
+2018-07-25 20:42:46 Invalid argument supplied for foreach() on line 104 in C:\xampp\htdocs\livechat\php\service\Memory.php
+2018-07-25 20:42:46 Invalid argument supplied for foreach() on line 79 in C:\xampp\htdocs\livechat\php\service\Memory.php
+Application path: /livechat/php/app.php?contact
+2018-07-26 18:47:54 mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() on line 698 in C:\xampp\htdocs\livechat\php\lib\PHPMailer\class.phpmailer.php
+Application path: /livechat/php/app.php?contact
+2018-07-26 18:47:54 [error] Could not instantiate mail function.
+Debug information:
+
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Mailer.php:51 (Logger:error())
+C:\xampp\htdocs\livechat\php\controller\ContactController.php:36 (Mailer:sendMessage())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (ContactController:contactAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?contact
+2018-07-26 18:49:02 mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() on line 698 in C:\xampp\htdocs\livechat\php\lib\PHPMailer\class.phpmailer.php
+Application path: /livechat/php/app.php?contact
+2018-07-26 18:49:02 [error] Could not instantiate mail function.
+Debug information:
+
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Mailer.php:51 (Logger:error())
+C:\xampp\htdocs\livechat\php\controller\ContactController.php:36 (Mailer:sendMessage())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (ContactController:contactAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?contact
+2018-07-26 18:54:33 mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() on line 698 in C:\xampp\htdocs\livechat\php\lib\PHPMailer\class.phpmailer.php
+Application path: /livechat/php/app.php?contact
+2018-07-26 18:54:33 [error] Could not instantiate mail function.
+Debug information:
+
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Mailer.php:51 (Logger:error())
+C:\xampp\htdocs\livechat\php\controller\ContactController.php:36 (Mailer:sendMessage())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (ContactController:contactAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?message-operator-get-new
+2018-07-26 19:01:28 PDO::__construct(): MySQL server has gone away on line 34 in C:\xampp\htdocs\livechat\php\service\Database.php
+2018-07-26 19:01:28 PDO::__construct(): Error while reading greeting packet. PID=5116 on line 34 in C:\xampp\htdocs\livechat\php\service\Database.php
+Application path: /livechat/php/app.php?message-operator-get-new
+2018-07-26 19:01:28 [error] SQLSTATE[HY000] [2006] MySQL server has gone away
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\MessageModel.php:44 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\MessageController.php:90 (MessageModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (MessageController:operatorGetNewAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-26 19:01:28 [error] SQLSTATE[HY000] [2006] MySQL server has gone away
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?admin
+2018-07-27 16:46:15 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Service.php:30 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\service\ModelValidation.php:177 (Service:get())
+C:\xampp\htdocs\livechat\php\controller\AdminController.php:133 (ModelValidation:validateDb())
+C:\xampp\htdocs\livechat\php\controller\AdminController.php:29 (AdminController:getInstallStatus())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (AdminController:indexAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?canned-message-list
+2018-07-27 16:46:18 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\DataModel.php:20 (Model:__construct())
+C:\xampp\htdocs\livechat\php\model\DataModel.php:9 (DataModel:__construct())
+C:\xampp\htdocs\livechat\php\controller\CannedMessageController.php:13 (DataModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (CannedMessageController:listAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:46:18 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:46:19 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:46:19 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-list
+2018-07-27 16:46:20 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:203 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:listAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:46:20 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:46:22 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:46:22 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:46:27 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:46:27 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:46:32 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:46:32 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:46:37 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:46:37 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:46:42 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:46:42 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:46:47 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:46:47 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?canned-message-update
+2018-07-27 16:46:48 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\DataModel.php:20 (Model:__construct())
+C:\xampp\htdocs\livechat\php\model\DataModel.php:9 (DataModel:__construct())
+C:\xampp\htdocs\livechat\php\controller\CannedMessageController.php:73 (DataModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (CannedMessageController:updateAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:46:48 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:46:53 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:46:53 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:46:57 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:46:57 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:47:02 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:47:02 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:47:08 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:47:08 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:47:13 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:47:13 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:47:18 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:47:18 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:47:23 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:47:23 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:47:28 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:47:28 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:47:33 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:47:33 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:47:38 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:47:38 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:47:43 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:47:43 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:47:48 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:47:48 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:47:53 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:47:53 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:47:58 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:47:58 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:48:03 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:48:03 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:48:07 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:48:07 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:48:12 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:48:12 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:48:17 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:48:17 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:48:22 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:48:22 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:48:27 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:48:27 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:48:32 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:48:32 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:48:37 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:48:37 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:48:42 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:48:42 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:48:48 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:48:48 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:48:53 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:48:53 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:48:58 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:48:58 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:49:03 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:49:03 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:49:08 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:49:08 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:49:13 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:49:13 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:49:18 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:49:18 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:49:23 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:49:23 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:49:28 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:49:28 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:49:33 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:49:33 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:49:38 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:49:38 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:49:43 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:49:43 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:49:48 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:49:48 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:49:53 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:49:53 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:49:58 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:49:58 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:50:03 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:50:03 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:50:08 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:50:08 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:50:13 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:50:13 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:50:18 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:50:18 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:50:23 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:50:23 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:50:28 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:50:28 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:50:33 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:50:33 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:50:38 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:50:38 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:50:43 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:50:43 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:50:48 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:50:48 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:50:53 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:50:53 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:50:58 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:50:58 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:51:03 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:51:03 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:51:08 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:51:08 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:51:13 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:51:13 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:51:18 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:51:18 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:51:23 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:51:23 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:51:28 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:51:28 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:51:33 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:51:33 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:51:38 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:51:38 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:51:43 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:51:43 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:51:48 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:51:48 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?operator-online-users
+2018-07-27 16:51:53 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Database.php:46 (Logger:error())
+C:\xampp\htdocs\livechat\php\service\Database.php:64 (Database:connect())
+C:\xampp\htdocs\livechat\php\service\Database.php:25 (Database:reconnect())
+C:\xampp\htdocs\livechat\php\lib\Service.php:17 (Database:onRegister())
+C:\xampp\htdocs\livechat\php\lib\ServiceContainer.php:47 (Service:setServiceContainer())
+C:\xampp\htdocs\livechat\php\lib\Model.php:19 (ServiceContainer:get())
+C:\xampp\htdocs\livechat\php\model\UserModel.php:241 (Model:__construct())
+C:\xampp\htdocs\livechat\php\controller\OperatorController.php:356 (UserModel:repo())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (OperatorController:getOnlineUsersAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+2018-07-27 16:51:53 [error] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\ExceptionHandler.php:23 (Logger:error())
+C:\xampp\htdocs\livechat\php\app\Application.php:170 (ExceptionHandler:createResponse())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
+Application path: /livechat/php/app.php?contact
+2018-07-28 15:46:20 mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() on line 698 in C:\xampp\htdocs\livechat\php\lib\PHPMailer\class.phpmailer.php
+Application path: /livechat/php/app.php?contact
+2018-07-28 15:46:20 [error] Could not instantiate mail function.
+Debug information:
+
+
+Stack trace:
+C:\xampp\htdocs\livechat\php\service\Mailer.php:51 (Logger:error())
+C:\xampp\htdocs\livechat\php\controller\ContactController.php:36 (Mailer:sendMessage())
+C:\xampp\htdocs\livechat\php\app\Application.php:155 (ContactController:contactAction())
+C:\xampp\htdocs\livechat\php\app\Application.php:79 (Application:runAction())
+C:\xampp\htdocs\livechat\php\app.php:27 (Application:run())
+
